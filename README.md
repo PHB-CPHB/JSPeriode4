@@ -1,5 +1,5 @@
 # JSPeriode4
-##Explain the concept of: Hybrid Mobile App Development
+##Explain the concept of: Hybrid Mobile App Development.
 - It is to make one app that works for both android and iphone
 ##Explain the Pros & Cons of using Hybrid Mobile App Development compared to Native App Development
 - Hybrid apps works for both IOS and Android.
